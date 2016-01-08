@@ -11,5 +11,8 @@ public class MainController {
 		System.out.print("\n");
 		//hello
 	}
+	private static void function_down(){
+		
+	} 
 
 }
