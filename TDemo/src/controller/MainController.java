@@ -10,9 +10,9 @@ public class MainController {
 		System.out.print("Ahoj svìto!");
 		System.out.print("\n");
 		//hello
-		function_up();
+		function_down();
 	}
-	private static void function_up(){
+	private static void function_down(){
 		
 	} 
 
