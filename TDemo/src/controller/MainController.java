@@ -10,6 +10,7 @@ public class MainController {
 		System.out.print("Ahoj svìto!");
 		System.out.print("\n");
 		//hello
+		function_down();
 	}
 	private static void function_down(){
 		
