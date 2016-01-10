@@ -13,7 +13,7 @@ public class MainController {
 		function_down();
 	}
 	private static void function_down(){
-		
+		System.out.print("Skoužka èíslo 1");
 	} 
 
 }
